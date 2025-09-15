@@ -1,0 +1,5 @@
+{
+  "name": "n8n AI Agent",
+  "description": "A professional and interactive chat widget powered by Gemini to act as an n8n AI agent, specializing in automation and workflow assistance.",
+  "requestFramePermissions": []
+}
